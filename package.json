@@ -36,7 +36,6 @@
     "url": "https://github.com/kartena/Proj4Leaflet/issues"
   },
   "dependencies": {
-    "leaflet": "~0.6.4",
     "proj4": "~1.4.0"
   }
 }
